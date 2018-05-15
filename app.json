@@ -1,0 +1,8 @@
+{
+  "name": "appVazMix",
+  "description": "Projeto VazMix Concreto",
+  "repository": "https://github.com/sueliopontes/appVazMix",
+  "logo": "https://github.com/sueliopontes/appVazMix",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
